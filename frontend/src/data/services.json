@@ -1,0 +1,56 @@
+[
+  {
+    "id": "electrician",
+    "name": "Electrician",
+    "icon": "Zap",
+    "description": "Wiring, repairs, installations & electrical safety inspections",
+    "color": "from-yellow-400 to-amber-500",
+    "bgColor": "bg-amber-50",
+    "startingPrice": 40
+  },
+  {
+    "id": "plumber",
+    "name": "Plumber",
+    "icon": "Droplets",
+    "description": "Pipe repairs, leak fixing, bathroom & kitchen plumbing",
+    "color": "from-blue-400 to-cyan-500",
+    "bgColor": "bg-blue-50",
+    "startingPrice": 35
+  },
+  {
+    "id": "carpenter",
+    "name": "Carpenter",
+    "icon": "Hammer",
+    "description": "Furniture repair, custom woodwork & cabinet installation",
+    "color": "from-orange-400 to-red-500",
+    "bgColor": "bg-orange-50",
+    "startingPrice": 45
+  },
+  {
+    "id": "hvac",
+    "name": "HVAC Technician",
+    "icon": "Wind",
+    "description": "AC repair, heating systems, ventilation & duct cleaning",
+    "color": "from-teal-400 to-emerald-500",
+    "bgColor": "bg-teal-50",
+    "startingPrice": 55
+  },
+  {
+    "id": "tutor",
+    "name": "Tutor",
+    "icon": "GraduationCap",
+    "description": "Math, science, language & test prep tutoring",
+    "color": "from-purple-400 to-violet-500",
+    "bgColor": "bg-purple-50",
+    "startingPrice": 30
+  },
+  {
+    "id": "cleaner",
+    "name": "Cleaner",
+    "icon": "Sparkles",
+    "description": "Deep cleaning, regular housekeeping & office cleaning",
+    "color": "from-pink-400 to-rose-500",
+    "bgColor": "bg-pink-50",
+    "startingPrice": 25
+  }
+]

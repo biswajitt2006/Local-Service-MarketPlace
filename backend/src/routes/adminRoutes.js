@@ -1,0 +1,7 @@
+const router = require('express').Router();
+const { getStats } = require('../controllers/adminController');
+const { protect, authorize } = require('../middleware/authMiddleware');
+
+router.get('/stats', protect, authorize('admin'), getStats);
+
+module.exports = router;
